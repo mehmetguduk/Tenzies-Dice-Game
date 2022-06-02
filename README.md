@@ -1,2 +1,2 @@
 # Tenzies Game
-#### https://tenzies-game-mg.netlify.app
+#### https://tenzies-dice-game-mg.netlify.app
